@@ -11,7 +11,7 @@ body {
 
 ul {
   font-size: 12px;
-  line-height: 75px;
+  line-height: 20px;
 }
 
 ol {
@@ -39,9 +39,9 @@ ol {
 }
 
 .AM {
-  margin: 15%;
-  border: black;
-  padding: 25px;
+  margin: 20px;
+  border: 20px black;
+  padding: 12px;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   background-color: white;
@@ -49,7 +49,7 @@ ol {
 
 .h3 {
   text-align: center;
-  font-size: 25px;
+  font-size: 50px;
 }
 
 .span {
