@@ -44,4 +44,6 @@ ol {
   padding: 12px;
   background-color: white;
   border-radius: 25%;
+  width: 50%;
+  height: auto;
 }
