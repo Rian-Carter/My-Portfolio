@@ -18,6 +18,15 @@ ol {
   color: blue;
 }
 
+.sidebar-r {
+  width: 20%;
+  float: right;
+  background-color: #A3A8A9;
+  border: black;
+  text-align: center;
+  margin: 30px;
+}
+
 .span {
   background-color: yellow;
 }
