@@ -2,7 +2,11 @@
 
 #### Created by Rian Carter
 
-## This is an HTML file with information about Rian Carter
+## HTML file with information about Rian Carter
+
+## Link to My-Portfoli
+
+* https://rian-carter.github.io/My-Portfolio/
 
 #### Technologies Used
 
