@@ -23,9 +23,9 @@ ol {
 }
 
 .img {
-  margin: 20px;
+  margin: 10px;
   border: 20px solid black;
-  padding: 20px;
+  padding: 12px;
   background-color: white;
   border-radius: 25%;
 }
