@@ -18,7 +18,7 @@ ol {
   color: blue;
 }
 
-.sidebar-r {
+.sidebar-l {
   width: 15%;
   float: right;
   background-color: #A3A8A9;
@@ -26,7 +26,7 @@ ol {
   margin: 15px;
 }
 
-.sidebar-l {
+.sidebar-r {
   width: 15%;
   float: left;
   background-color: #A3A8A9;
@@ -43,6 +43,11 @@ ol {
   background-color: white;
 }
 
+.h3 {
+  text-align: center;
+  font-size: 25px;
+}
+
 .span {
   background-color: yellow;
 }
@@ -55,9 +60,4 @@ ol {
   border-radius: 25%;
   width: 50%;
   height: auto;
-}
-
-.h3 {
-  text-align: center;
-  font-size: 25px;
 }
