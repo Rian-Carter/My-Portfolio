@@ -9,9 +9,14 @@ body {
   line-height: 50px;
 }
 
+ul {
+  font-size: 20px;
+  line-height: 20px;
+}
+
 ol {
   font-size: 20px;
-  line-height: 75px;
+  line-height: 20px;
 }
 
 .link {
