@@ -2,7 +2,7 @@
 
 #### Created by Rian Carter
 
-### HTML file utilizing CSS that will provide information about Rian Carter
+### HTML file utilizing CSS that provides information about Rian Carter
 
 ## Link to Rian's Portfolio
 
