@@ -1,34 +1,32 @@
-# index.html 
+# Rian's Portofolio 
 
 #### Created by Rian Carter
 
-## HTML file with information about Rian Carter
+### HTML file utilizing CSS that provides information about Rian Carter
 
-## Link to My-Portfoli
+## Link to Rian's Portfolio
 
 * https://rian-carter.github.io/My-Portfolio/
 
-#### Technologies Used
+## Technologies Used
 
-*HTML
-*CSS
+* HTML
+* CSS
 
-## This will give you detailed info about Rian Carter including background, hobbies & interests, contact info, links to WIP projects, and and IMG.
+## This will give you detailed info about Rian Carter including background, hobbies & interests, contact info, links to WIP projects, and an IMG.
 
 ## Setup/Installation Requirements
 
-*Must have internet connection
-*Download a web browser such as Chrome, Firefox, etc.
-*Click on GH-Pages link to open in web browser
-*Alternately you can view in repository on GitHub @ https://github.com/Rian-Carter/My-Portfolio.git
+* Clone this repo to your desktop
+* Open index.html in a browser
 
 ## Known Bugs
 
-*No known bugs at this point
-*Please forward any bugs to R.Carter86@hotmail.com
+* No known bugs at this time
+* Please forward any bugs to R.Carter86@hotmail.com
 
 ## License
 
 * GNU https://en.wikipedia.org/wiki/GNU_General_Public_License
 
-Copyright (c) 1/15/2022 Rian Carter
+* Copyright (c) 1/15/2022 Rian Carter
